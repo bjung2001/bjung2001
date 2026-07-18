@@ -17,6 +17,8 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: cards
 
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
