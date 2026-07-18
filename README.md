@@ -55,17 +55,17 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bjung2001/bjung2001/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-    <img width="800" alt="Profile details" src="https://raw.githubusercontent.com/bjung2001/bjung2001/main/profile-summary-card-output/default/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bjung2001/bjung2001/cards/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+    <img width="800" alt="Profile details" src="https://raw.githubusercontent.com/bjung2001/bjung2001/cards/profile-summary-card-output/default/0-profile-details.svg" />
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bjung2001/bjung2001/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-    <img width="390" alt="GitHub stats" src="https://raw.githubusercontent.com/bjung2001/bjung2001/main/profile-summary-card-output/default/3-stats.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bjung2001/bjung2001/cards/profile-summary-card-output/tokyonight/3-stats.svg" />
+    <img width="390" alt="GitHub stats" src="https://raw.githubusercontent.com/bjung2001/bjung2001/cards/profile-summary-card-output/default/3-stats.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bjung2001/bjung2001/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-    <img width="390" alt="Top languages by repo" src="https://raw.githubusercontent.com/bjung2001/bjung2001/main/profile-summary-card-output/default/1-repos-per-language.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bjung2001/bjung2001/cards/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+    <img width="390" alt="Top languages by repo" src="https://raw.githubusercontent.com/bjung2001/bjung2001/cards/profile-summary-card-output/default/1-repos-per-language.svg" />
   </picture>
   <br>
   <picture>
