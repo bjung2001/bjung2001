@@ -13,7 +13,6 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **정형식 · Hyungsik (Brian) Jung** — AI major undergraduate
-- 🧠 **Deep Learning & Reinforcement Learning**을 공부하고 있습니다
 - 📫 Contact: [bjung2001@naver.com](mailto:bjung2001@naver.com)
 
 <div align="center">
