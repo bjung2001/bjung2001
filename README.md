@@ -58,12 +58,17 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bjung2001&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bjung2001&show_icons=true&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bjung2001/bjung2001/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+    <img width="800" alt="Profile details" src="https://raw.githubusercontent.com/bjung2001/bjung2001/main/profile-summary-card-output/default/0-profile-details.svg" />
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bjung2001/bjung2001/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+    <img width="390" alt="GitHub stats" src="https://raw.githubusercontent.com/bjung2001/bjung2001/main/profile-summary-card-output/default/3-stats.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bjung2001&layout=compact&theme=tokyonight&hide_border=true" />
-    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjung2001&layout=compact&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bjung2001/bjung2001/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+    <img width="390" alt="Top languages by repo" src="https://raw.githubusercontent.com/bjung2001/bjung2001/main/profile-summary-card-output/default/1-repos-per-language.svg" />
   </picture>
   <br>
   <picture>
