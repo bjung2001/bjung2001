@@ -12,10 +12,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **정형식 · Hyungsik (Brian) Jung** — AI 전공 학부생 (AI major undergraduate)
+- 🎓 **정형식 · Hyungsik (Brian) Jung** — AI major undergraduate
 - 🧠 **Deep Learning & Reinforcement Learning**을 공부하고 있습니다
-- 🔭 지금은 **강화학습 에이전트**를 만들고 있어요 (currently building RL agents)
-- ⚙️ C/C++ 시스템 프로그래밍부터 PyTorch 딥러닝까지, 바닥부터 이해하는 걸 좋아합니다
 - 📫 Contact: [bjung2001@naver.com](mailto:bjung2001@naver.com)
 
 <div align="center">
