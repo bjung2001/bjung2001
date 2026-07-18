@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=Hyungsik%20(Brian)%20Jung&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20Deep%20Learning%20%C2%B7%20Reinforcement%20Learning&descSize=18&descAlignY=58" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+Undergraduate+%F0%9F%8E%93;Deep+Learning+%26+Reinforcement+Learning;From+C+pointers+to+PyTorch+%F0%9F%94%A5" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+Undergraduate+%F0%9F%8E%93;" alt="typing intro" />
 
 <img src="https://komarev.com/ghpvc/?username=bjung2001&color=58A6FF&style=flat-square&label=Profile+Views" alt="profile views" />
 
